@@ -12,8 +12,8 @@ namespace AddressBookProblemLinq
 
             List<AddressBook> address = new List<AddressBook>()
             {
-                 new AddressBook{Name="Vaibhav",Contact=9359864239,City="Pune",State="Maharashtra",Pin=431115},
-                 new AddressBook{Name="Pratibha",Contact=9359868837,City="Pune",State="Maharashtra",Pin=431116},
+                 new AddressBook{Name="Akshay",Contact=9259864289,City="Pune",State="Maharashtra",Pin=413101},
+                 new AddressBook{Name="Devansh",Contact=9959868899,City="Pune",State="Maharashtra",Pin=412101},
             };
            foreach(var list in address)
             {
